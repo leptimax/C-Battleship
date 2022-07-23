@@ -1,0 +1,42 @@
+;
+average time of a game :
+	
+	against AI lvl 1 : 	! min
+	against AI lvl 2 :	! min
+	against AI lvl 3 :	! min
+	against AI lvl 4 :	! min
+	against AI lvl 5 :	! min
+
+average number of hits :
+
+	against AI lvl 1 : 	!
+	against AI lvl 2 :	!
+	against AI lvl 3 :	!
+	against AI lvl 4 :	!
+	against AI lvl 5 :	!
+
+number of victories :
+
+	against AI lvl 1 : 	/
+	against AI lvl 2 :	/
+	against AI lvl 3 :	/
+	against AI lvl 4 :	/
+	against AI lvl 5 :	/
+
+number of defeats :
+
+	against AI lvl 1 : 	/
+	against AI lvl 2 :	/
+	against AI lvl 3 :	/
+	against AI lvl 4 :	/
+	against AI lvl 5 :	/
+
+win-loss ratio :
+
+	against AI lvl 1 : 	!
+	against AI lvl 2 :	!
+	against AI lvl 3 :	!
+	against AI lvl 4 :	!
+	against AI lvl 5 :	!
+
+total playing time :	! min

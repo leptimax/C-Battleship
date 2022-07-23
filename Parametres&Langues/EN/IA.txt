@@ -1,0 +1,13 @@
+129129;
+please choose a level of difficulty : 
+
+level 1 : Christopher Columbus, the famous explorer 						(1)
+level 2 : Edouard Montagu, 1st sandwich count: Admiral of the Royal Navy 			(2)
+level 3 : Louis Thomas Villaret de Joyeuse : French Vice Admiral 				(3)
+level 4 : G%cnther L%ctjens : Admiral of the Kriegs Marine and commander of the Bismarck 	(4)
+level 5 : God: the omniscient being 								(5)
+
+return												(6)
+
+
+

@@ -1,0 +1,43 @@
+;
+;
+durchschnittliche Zeit eines Spiels:
+
+	mit Blick auf die KI Stufe 1:	!
+	mit Blick auf die KI Stufe 2:	!
+	mit Blick auf die KI Stufe 3:	!
+	mit Blick auf die KI Stufe 4:	!
+	mit Blick auf die KI Stufe 5:	!
+
+durchschnittliche Anzahl der Treffer:
+
+	mit Blick auf die KI Stufe 1:	!
+	mit Blick auf die KI Stufe 2:	!
+	mit Blick auf die KI Stufe 3:	!
+	mit Blick auf die KI Stufe 4:	!
+	mit Blick auf die KI Stufe 5:	!
+
+Anzahl der Siege:
+
+	mit Blick auf die KI Stufe 1: 	/
+	mit Blick auf die KI Stufe 2: 	/
+	mit Blick auf die KI Stufe 3: 	/
+	mit Blick auf die KI Stufe 4: 	/
+	mit Blick auf die KI Stufe 5: 	/
+
+Anzahl der Niederlagen:
+
+	mit Blick auf die KI Stufe 1: 	/
+	mit Blick auf die KI Stufe 2: 	/
+	mit Blick auf die KI Stufe 3: 	/
+	mit Blick auf die KI Stufe 4: 	/
+	mit Blick auf die KI Stufe 5: 	/
+
+Gewinn-Verlust-Verhältnis:
+
+	mit Blick auf die KI Stufe 1:	!
+	mit Blick auf die KI Stufe 2:	!
+	mit Blick auf die KI Stufe 3:	!
+	mit Blick auf die KI Stufe 4:	!
+	mit Blick auf die KI Stufe 5:	!
+
+Gesamtspielzeit:	!

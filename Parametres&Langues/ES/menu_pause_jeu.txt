@@ -1,0 +1,8 @@
+151151;
+Men%c de pausa :
+
+Contin%ca			(1)
+Ajustes				(2)
+Guardar				(3)
+Salga del juego			(4)
+Salve y salga del juego		(5)

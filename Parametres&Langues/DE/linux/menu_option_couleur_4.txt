@@ -1,0 +1,7 @@
+130;
+
+Farbenblinder Modus	(4)
+
+Standardfarben		(5)
+
+Rückkehr		(6)

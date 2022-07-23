@@ -1,0 +1,13 @@
+162162160130129129;
+Elija un nivel de dificultad:
+
+Nivel 1: Cristóbal Colón, el famoso explorador 						(1)
+Nivel 2: Edouard Montagu, primera cuenta sándwich: Almirante de la Royal Navy 		(2)
+Nivel 3: Louis Thomas Villaret de Joyeuse: Vicealmirante francés 			(3)
+Nivel 4: Günther Lütjens: Almirante de la Kriegs Marine y comandante del Bismarck 	(4)
+Nivel 5: Dios: el ser omnisciente 							(5)
+
+Regreso											(6)
+
+
+

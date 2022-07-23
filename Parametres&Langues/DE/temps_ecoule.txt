@@ -1,0 +1,3 @@
+153;
+Der Gegner hat eine %cffnung in Ihrer Verteidigung gesehen und greift Sie an !
+

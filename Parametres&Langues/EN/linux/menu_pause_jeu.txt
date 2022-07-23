@@ -1,0 +1,8 @@
+138;
+Pause Menu :
+
+Continue			(1)
+Settings			(2)
+Save				(3)
+Exit the game			(4)
+Save and exit the game		(5)

@@ -1,0 +1,6 @@
+;
+Voulez-vous supprimer :
+
+1 bateau	  (1)
+Tous les bateaux  (2)
+Annuler	        (autre)

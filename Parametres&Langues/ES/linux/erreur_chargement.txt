@@ -1,0 +1,2 @@
+163;
+Se produjo un error al cargar el juego, volver al menù principal

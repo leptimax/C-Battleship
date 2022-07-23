@@ -1,0 +1,30 @@
+139139139;
+			Kredieten
+
+	DIRECTOR  ......   Maxime CHARMOILLE
+
+	AFBEELDING .....   Maxime CHARMOILLE
+	  	   .....   Lo%cs MAILLOT
+
+	SPELERSMANAGEMENT  Lucas SCHAPPLER
+
+	AI ...........     Maxime CHARMOILLE
+
+	SAFEGUARD ......   Lo%cs MAILLOT
+
+	REPLAY .........   Lo%cs MAILLOT
+       	       .........   Maxime CHARMOILLE
+
+	OPTIES  ........   Maxime CHARMOILLE
+		........   Lucas SCHAPPLER
+
+	VERTREKKER .....   Maxime CHARMOILLE
+	   	   .....   Seccotine BUEE
+	   	   .....
+
+
+======================= REMERCIEMENTS ===============================
+
+Seccotine BUEE voor vertaling in het IJslands en Duits
+
+=====================================================================

@@ -1,0 +1,8 @@
+130138130;
+Errore, hai definito lo stesso colore due volte!
+
+Vuoi tornare al menu principale e ripristinare le impostazioni di default?
+
+Si (1)
+No (2)
+

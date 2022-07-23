@@ -1,0 +1,3 @@
+;
+Beim Laden des Spiels ist ein Fehler aufgetreten.
+zurück zum Hauptmenü

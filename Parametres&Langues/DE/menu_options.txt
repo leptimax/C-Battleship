@@ -1,0 +1,8 @@
+129;
+Optionen:
+
+Farben 		(1)
+Sprachen 	(2)
+
+R%cckkehr 	(3)
+

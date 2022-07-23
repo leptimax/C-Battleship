@@ -1,0 +1,42 @@
+;
+gemiddelde tijd van een spel :
+	
+	tegen AI lvl 1 : 	! min
+	tegen AI lvl 2 :	! min
+	tegen AI lvl 3 :	! min
+	tegen AI lvl 4 :	! min
+	tegen AI lvl 5 :	! min
+
+gemiddeld aantal hits :
+
+	tegen AI lvl 1 : 	!
+	tegen AI lvl 2 :	!
+	tegen AI lvl 3 :	!
+	tegen AI lvl 4 :	!
+	tegen AI lvl 5 :	!
+
+aantal overwinningen :
+
+	tegen AI lvl 1 : 	/
+	tegen AI lvl 2 :	/
+	tegen AI lvl 3 :	/
+	tegen AI lvl 4 :	/
+	tegen AI lvl 5 :	/
+
+aantal nederlagen:
+
+	tegen AI lvl 1 : 	/
+	tegen AI lvl 2 :	/
+	tegen AI lvl 3 :	/
+	tegen AI lvl 4 :	/
+	tegen AI lvl 5 :	/
+
+win-verlies verhouding :
+
+	tegen AI lvl 1 : 	!
+	tegen AI lvl 2 :	!
+	tegen AI lvl 3 :	!
+	tegen AI lvl 4 :	!
+	tegen AI lvl 5 :	!
+
+totale speeltijd :	! min

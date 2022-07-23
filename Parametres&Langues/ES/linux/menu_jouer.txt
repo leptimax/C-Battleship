@@ -1,0 +1,8 @@
+162160;
+Toca :
+
+Nuevo juego 		(1)
+Cargar un juego 	(2)
+Repeticiòn 		(3)
+Regreso			(4)
+

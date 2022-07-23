@@ -1,0 +1,11 @@
+;
+La Bataille navale :
+
+Jouer        		(1)
+Statistiques 		(2)
+Options      		(3)
+Aide         		(4)
+Crédits      		(5)
+changer d'utilisateur 	(6)
+Quitter      		(7)
+

@@ -1,0 +1,5 @@
+;
+Any unsaved progress will be lost, would you like to exit the program ? 
+
+yes	(1)
+no	(2)

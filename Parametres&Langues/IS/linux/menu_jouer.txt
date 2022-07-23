@@ -1,0 +1,8 @@
+;
+Að spila :
+
+Nýr leikur 	(1)
+Hlaða leik 	(2)
+Endurspil 	(3)
+Skila 		(4)
+

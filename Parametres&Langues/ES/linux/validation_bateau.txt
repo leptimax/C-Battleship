@@ -1,0 +1,6 @@
+162161;
+¿Quiere confirmar la ubicaciòn de sus barcos?
+
+sì	(1)
+no	(2)
+

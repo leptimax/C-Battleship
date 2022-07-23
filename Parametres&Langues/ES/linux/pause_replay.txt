@@ -1,0 +1,2 @@
+163163;
+		Menù de pausa	(P)                            Volver al menù principal    (ESC)

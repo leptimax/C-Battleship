@@ -1,0 +1,4 @@
+130;
+
+Ripristina installazione barca 		   (1)
+Convalida la posizione e avvia il gioco    (7)

@@ -1,0 +1,29 @@
+130139139139;
+			Credits
+
+	ANZEIGE ...... Maxime CHARMOILLE
+		...... Lois MAILLOT
+		...... Lucas SCHAPPLER
+
+ SPIELERMANAGEMENT ... Lucas SCHAPPLER
+
+	IA ........... Maxime CHARMOILLE
+
+	SAFEGUARD .... Lois MAILLOT
+
+	REPLAY ......... Lois MAILLOT
+
+	OPTIONEN ....... Maxime CHARMOILLE
+		 ....... Lucas SCHAPPLER
+
+	ÜBERSETZUNG .... Maxime CHARMOILLE
+		   ..... Seccotine BUEE
+		   ..... Katia BRUNO
+
+
+====================== ANERKENNUNGEN ==================================
+
+Seccotine BUEE für isländische und deutsche Übersetzung
+Katia BRUNO für die italienische Übersetzung
+
+========================================================================

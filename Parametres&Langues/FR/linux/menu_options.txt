@@ -1,0 +1,8 @@
+;
+Options :
+
+Couleurs       (1)
+Langues        (2)
+
+Retour         (3)
+

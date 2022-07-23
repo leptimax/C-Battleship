@@ -1,0 +1,42 @@
+;
+gemiddelde tijd van een wedstrijd:
+
+	geconfronteerd met de AI lvl 1 :	!
+	geconfronteerd met de AI lvl 2 :	!
+	geconfronteerd met de AI lvl 3 :	!
+	geconfronteerd met de AI lvl 4 :	!
+	geconfronteerd met de AI lvl 5 :	!
+
+gemiddeld aantal hits:
+
+	geconfronteerd met de AI lvl 1 :	!
+	geconfronteerd met de AI lvl 2 :	!
+	geconfronteerd met de AI lvl 3 :	!
+	geconfronteerd met de AI lvl 4 :	!
+	geconfronteerd met de AI lvl 5 :	!
+
+aantal overwinningen:
+
+	geconfronteerd met de AI lvl 1: 	/
+	geconfronteerd met de AI lvl 2: 	/
+	geconfronteerd met de AI lvl 3: 	/
+	geconfronteerd met de AI lvl 4: 	/
+	geconfronteerd met de AI lvl 5: 	/
+
+aantal nederlagen:
+
+	geconfronteerd met de AI lvl 1: 	/
+	geconfronteerd met de AI lvl 2: 	/
+	geconfronteerd met de AI lvl 3: 	/
+	geconfronteerd met de AI lvl 4: 	/
+	geconfronteerd met de AI lvl 5: 	/
+
+winst-verliesverhouding:
+
+	geconfronteerd met de AI lvl 1 :	!
+	geconfronteerd met de AI lvl 2 :	!
+	geconfronteerd met de AI lvl 3 :	!
+	geconfronteerd met de AI lvl 4 :	!
+	geconfronteerd met de AI lvl 5 :	!
+
+totale speelduur :	!

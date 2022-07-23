@@ -1,0 +1,11 @@
+;
+Die Seeschlacht:
+
+Spielen 		(1)
+Statistik 		(2)
+Optionen 		(3)
+Hilfe 			(4)
+Credits 		(5)
+Benutzer wechseln 	(6)
+Ausfahrt 		(7)
+

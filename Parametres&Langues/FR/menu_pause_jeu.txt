@@ -1,0 +1,8 @@
+138;
+Menu Pause :
+
+Continuer			(1)
+Param%ctres			(2)
+Sauvegarder			(3)
+Quitter la partie		(4)
+Sauvegarder et quitter le jeu	(5)

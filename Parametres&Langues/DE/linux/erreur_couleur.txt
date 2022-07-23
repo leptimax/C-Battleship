@@ -1,0 +1,9 @@
+130138130;
+Fehler, Sie haben dieselbe Farbe zweimal definiert!
+
+Möchten Sie zum Hauptmenü zurückkehren und die Einstellungen auf die 
+Standardeinstellungen zurücksetzen?
+
+Ja		(1)
+Nein		(2)
+

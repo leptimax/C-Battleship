@@ -1,0 +1,8 @@
+163163;
+Menù de pausa :
+
+Continùa			(1)
+Ajustes				(2)
+Guardar				(3)
+Salga del juego			(4)
+Salve y salga del juego		(5)

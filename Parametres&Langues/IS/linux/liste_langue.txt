@@ -1,0 +1,12 @@
+130135130;
+Vinsamlegast veldu tungumál úr eftirfarandi:
+
+Franska 	(1)
+Enska 		(2)
+Spænska 	(3)
+Þýska 		(4)
+Ítalska 	(5)
+Íslenska 	(6)
+Hollenska 	(7)
+
+Skila 		(8)

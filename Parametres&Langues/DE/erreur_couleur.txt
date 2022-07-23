@@ -1,0 +1,9 @@
+148129129129;
+Fehler, Sie haben dieselbe Farbe zweimal definiert!
+
+M%cchten Sie zum Hauptmen%c zur%cckkehren und die Einstellungen auf die 
+Standardeinstellungen zur%ccksetzen?
+
+Ja		(1)
+Nein		(2)
+

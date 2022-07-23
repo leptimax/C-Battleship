@@ -1,0 +1,12 @@
+130135130;
+Veuillez sélectionner une langue parmi les suivantes :
+
+Français	(1)
+Anglais		(2)
+Espagnol	(3)
+Allemand	(4)
+Italien		(5)
+Islandais	(6)
+Néerlandais	(7)
+
+Retour		(8)

@@ -1,0 +1,2 @@
+;
+		Menu Pause	(P)                            Retour au menu principal    (ESC)

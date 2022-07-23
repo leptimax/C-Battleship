@@ -1,0 +1,6 @@
+;
+Viltu staðfesta staðsetningu báta þinna ?
+
+Já 	(1)
+Nei 	(2)
+

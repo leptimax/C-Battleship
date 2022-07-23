@@ -1,0 +1,3 @@
+;
+
+Inserisci le coordinate di tiro :

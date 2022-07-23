@@ -1,0 +1,3 @@
+1 4 Gulur !
+2 1 Hvitt !
+3 2 Rautt !

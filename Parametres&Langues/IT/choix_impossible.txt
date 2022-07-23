@@ -1,0 +1,2 @@
+138;
+Il valore scelto non %c una delle scelte possibili. Per favore, ricomincia

@@ -1,0 +1,2 @@
+130133130;
+Vous avez déjà placé tous les bateaux de cette taille. Veuillez recommencer !

@@ -1,0 +1,7 @@
+130160;
+
+modo sin color		(4)
+
+colores por defecto	(5)
+
+Regreso			(6)

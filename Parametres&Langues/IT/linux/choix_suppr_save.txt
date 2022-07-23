@@ -1,0 +1,3 @@
+;
+Elimina una posizione 	(10)
+Ritorno 		(11)

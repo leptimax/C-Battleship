@@ -1,0 +1,2 @@
+;
+The damage you inflicted on your opponent prevented him from attacking!

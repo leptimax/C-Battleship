@@ -1,0 +1,12 @@
+160;
+por favor, seleccione el nuevo color a aplicar:
+
+blanco 		(1)
+rojo 		(2)
+verde 		(3)
+amarillo 	(4)
+azul 		(5)
+magenta 	(6)
+cian 		(7)
+
+regreso		(8)

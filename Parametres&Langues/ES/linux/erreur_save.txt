@@ -1,0 +1,2 @@
+162162;
+Ocurri%c un error, la copia de seguridad no se llev%c a cabo.

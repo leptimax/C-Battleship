@@ -1,0 +1,19 @@
+#! /bin/bash
+string=""
+
+list_file=`find . -type f -name '*.c'`
+
+
+for file in $list_file
+do
+
+    if [ -f $file ]
+    then   
+        if [[ $file == *.c ]] 
+        then
+            string+=" $file"
+        fi
+    fi
+done
+gcc -Wall $string -o Bataille_navale.exe
+clear

@@ -1,0 +1,33 @@
+130139139139;
+			Cr%cdits
+
+	DIRECTEUR ......   Maxime CHARMOILLE
+
+	AFFICHAGE ......   Maxime CHARMOILLE
+	  	  ......   Lo%cs MAILLOT
+
+	GESTION JOUEUR ... Lucas SCHAPPLER
+
+	IA ...........     Maxime CHARMOILLE
+
+	SAUVEGARDE .....   Lo%cs MAILLOT
+
+	REPLAY .........   Lo%cs MAILLOT
+       	       .........   Maxime CHARMOILLE
+
+	OPTIONS ........   Maxime CHARMOILLE
+		........   Lucas SCHAPPLER
+
+	TRADUCTION .....   Maxime CHARMOILLE
+	   	   .....   Seccotine BUEE
+	   	   .....
+
+
+======================= REMERCIEMENTS ===============================
+
+Seccotine BUEE pour la traduction en islandais et en allemand
+Katia BRUNO pour la traduction en italien
+
+=====================================================================
+
+

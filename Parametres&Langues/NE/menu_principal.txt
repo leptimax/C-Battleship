@@ -1,0 +1,11 @@
+130;
+Het slagschip :
+
+Speel        		(1)
+Statistieken 		(2)
+Opties      		(3)
+Help         		(4)
+Kredieten      		(5)
+wisselende gebruiker 	(6)
+Verlaat      		(7)
+

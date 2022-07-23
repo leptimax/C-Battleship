@@ -1,0 +1,2 @@
+130;
+Die eingegebene Koordinate befindet sich außerhalb der Tabelle. Bitte fangen Sie von vorne an.

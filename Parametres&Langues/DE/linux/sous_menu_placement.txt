@@ -1,0 +1,6 @@
+;
+Möchten Sie löschen:
+
+1 Boot 		  (1)
+Alle Boote 	  (2)
+Abbrechen 	(andere)

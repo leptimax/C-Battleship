@@ -1,0 +1,8 @@
+231163161208161160148208160;
+Villa, %c%c hefur skilgreint sama lit tvisvar !
+
+Viltu fara aftur %c a%calvalmyndina og endurstilla stillingarnar %c sj%clfgefna st%c%cu ?
+
+J%c		(1)
+Nei		(2)
+

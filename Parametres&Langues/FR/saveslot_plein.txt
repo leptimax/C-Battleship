@@ -1,0 +1,6 @@
+130130;
+Tous les emplacements de sauvegarde sont utilis%cs, voulez-vous %ccraser
+un emplacement ?
+
+Oui	(1)
+Non	(2)

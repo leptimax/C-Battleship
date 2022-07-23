@@ -1,0 +1,7 @@
+;
+Opzioni:
+
+Colori 		(1)
+Lingue 		(2)
+
+Ritorno 	(3)

@@ -1,0 +1,13 @@
+130130138135129129136;
+Veuillez choisir un niveau de difficulté : 
+
+Niveau 1 : Christophe Colomb, le célèbre explorateur					(1)
+Niveau 2 : Edouard Montagu, 1er compte de sandwich : Amiral de la Royal Navy		(2)
+Niveau 3 : Louis Thomas Villaret de Joyeuse : Vice Amiral français			(3)
+Niveau 4 : Günther Lütjens : Amiral de la Kriegs Marine et commandant du Bismarck	(4)
+Niveau 5 : Dieu : l'être omniscient							(5)
+
+Retour											(6)
+
+
+

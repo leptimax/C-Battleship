@@ -1,0 +1,2 @@
+129;
+	Men%c anhalten	(P)                            Spiel speichern und beenden    (Q)

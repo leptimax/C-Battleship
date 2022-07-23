@@ -1,0 +1,6 @@
+130;
+
+Tutti i progressi non salvati andranno persi, vuoi uscire?
+
+Si (1)
+No (2)

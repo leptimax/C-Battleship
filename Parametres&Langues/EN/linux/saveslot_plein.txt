@@ -1,0 +1,5 @@
+;
+All backup locations are used, do you want to overwrite a location ?
+
+yes	(1)
+no	(2)

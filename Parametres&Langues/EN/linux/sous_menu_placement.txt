@@ -1,0 +1,6 @@
+;
+Do you want to delete :
+
+1 boat		  (1)
+All boats	  (2)
+Cancel 		(other)

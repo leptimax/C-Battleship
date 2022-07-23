@@ -1,0 +1,8 @@
+208236208;
+A%c spila :
+
+N%cr leikur 	(1)
+Hla%ca leik 	(2)
+Endurspil 	(3)
+Skila 		(4)
+

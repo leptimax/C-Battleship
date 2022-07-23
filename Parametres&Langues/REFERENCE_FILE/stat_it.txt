@@ -1,0 +1,42 @@
+;
+Tempo medio di una partita :
+
+	Contro l’IA lvl 1 :	!
+	Contro l’IA lvl 2 :	!
+	Contro l’IA lvl 3 :	!
+	Contro l’IA lvl 4 :	!
+	Contro l’IA lvl 5 :	!
+
+Numero di colpi medi :
+	
+	Contro l’IA lvl 1 :	!
+	Contro l’IA lvl 2 :	!
+	Contro l’IA lvl 3 :	!
+	Contro l’IA lvl 4 :	!
+	Contro l’IA lvl 5 :	!
+
+Numero di vittorie :
+
+	Contro l’IA lvl 1 :	/
+	Contro l’IA lvl 2 :	/
+	Contro l’IA lvl 3 :	/
+	Contro l’IA lvl 4 :	/
+	Contro l’IA lvl 5 :	/
+
+Numero di sconfitte :
+
+	Contro l’IA lvl 1 :	/
+	Contro l’IA lvl 2 :	/
+	Contro l’IA lvl 3 :	/
+	Contro l’IA lvl 4 :	/
+	Contro l’IA lvl 5 :	/
+
+Rapporto vittorie sconfitte :
+
+	Contro l’IA lvl 1 :	!
+	Contro l’IA lvl 2 :	!
+	Contro l’IA lvl 3 :	!
+	Contro l’IA lvl 4 :	!
+	Contro l’IA lvl 5 :	!
+
+Tempo totale di gioco :		!

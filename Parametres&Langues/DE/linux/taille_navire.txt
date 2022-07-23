@@ -1,0 +1,2 @@
+133;
+Geben Sie die Größe des zu löschenden Schiffes ein :

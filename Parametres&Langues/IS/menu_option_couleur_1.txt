@@ -1,0 +1,6 @@
+208160;
+Vinsamlegast veldu litastillingu til a%c breyta :
+
+	Val					Litir
+
+B%ctalitir		(1)			

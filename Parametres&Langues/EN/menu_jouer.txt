@@ -1,0 +1,8 @@
+;
+Play :
+
+New Game	   (1)
+Load		   (2)
+Replay             (3)
+Return             (4)
+

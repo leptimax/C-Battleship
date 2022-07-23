@@ -1,0 +1,6 @@
+130130;
+Alle back-up locaties worden gebruikt, wilt u overschrijven
+een locatie?
+
+ja	(1)
+geen	(2)

@@ -1,0 +1,7 @@
+130;
+
+Mode daltonien		(4)
+
+Couleurs par défaut	(5)
+
+Retour			(6)

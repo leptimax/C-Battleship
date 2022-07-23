@@ -1,0 +1,6 @@
+141;
+Vuoi confermare la posizione delle tue barche?
+
+S%c (1)
+No (2)
+

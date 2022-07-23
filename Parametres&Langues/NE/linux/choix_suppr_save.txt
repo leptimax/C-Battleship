@@ -1,0 +1,3 @@
+;
+Een locatie verwijderen		(10)
+terugsturen			(11)

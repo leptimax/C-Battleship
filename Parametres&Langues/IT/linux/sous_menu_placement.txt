@@ -1,0 +1,6 @@
+;
+Vuoi eliminare:
+
+1 barca 		(1)
+Tutte le barche 	(2)
+Annulla 	      (altro)

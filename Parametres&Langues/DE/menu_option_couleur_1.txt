@@ -1,0 +1,6 @@
+132142;
+Bitte w%chlen Sie eine Farbeinstellung zum %cndern aus :
+
+	Auserlesene				Farben
+
+Bootsfarben		(1)			

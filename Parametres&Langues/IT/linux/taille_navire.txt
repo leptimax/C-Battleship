@@ -1,0 +1,2 @@
+133;
+Immettere le dimensioni della nave da eliminare :

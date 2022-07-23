@@ -1,0 +1,6 @@
+130130;
+Allir vistaðir staðir eru í notkun, viltu skrifa yfir
+staðsetning?
+
+Já 	(1)
+Nei 	(2)

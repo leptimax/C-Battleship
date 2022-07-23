@@ -1,0 +1,4 @@
+;
+
+Reset the installation of the boats	 	(1)
+validate the location and start the game        (7)

@@ -1,0 +1,8 @@
+161163162161;
+Error, ¡has definido el mismo color dos veces!
+
+¿Le gustaría volver al menú principal y restablecer la configuración predeterminada?
+
+Sí 		(1)
+No 		(2)
+

@@ -1,0 +1,4 @@
+149149;
+
+Reiniciar la instalaci%cn del barco 		(1)
+validar la ubicaci%cn y comenzar el juego 	(7)

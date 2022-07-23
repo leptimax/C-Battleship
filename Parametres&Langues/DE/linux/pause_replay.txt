@@ -1,0 +1,2 @@
+;
+		Menü anhalten	(P)                            Zurück zum Hauptmenü    (ESC)

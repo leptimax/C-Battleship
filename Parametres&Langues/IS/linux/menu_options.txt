@@ -1,0 +1,8 @@
+;
+Valkostir:
+
+Litir 		(1)
+Tungumál 	(2)
+
+Skila 		(3)
+

@@ -1,0 +1,6 @@
+130130;
+Alle Speicherorte werden verwendet. Möchten Sie überschreiben?
+ein Ort ?
+
+Ja	(1)
+Nein	(2)

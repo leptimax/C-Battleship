@@ -1,0 +1,6 @@
+149;
+Por favor, seleccione un ajuste de color para cambiar:
+
+       elecci%cn				color
+
+colores de los barcos	(1)			

@@ -1,0 +1,8 @@
+130138130;
+Villa, þú hefur skilgreint sama lit tvisvar !
+
+Viltu fara aftur í aðalvalmyndina og endurstilla stillingarnar í sjálfgefna stöðu ?
+
+Já		(1)
+Nei		(2)
+

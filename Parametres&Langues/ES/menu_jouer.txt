@@ -1,0 +1,8 @@
+149;
+Toca :
+
+Nuevo juego 		(1)
+Cargar un juego 	(2)
+Repetici%cn 		(3)
+Regreso			(4)
+

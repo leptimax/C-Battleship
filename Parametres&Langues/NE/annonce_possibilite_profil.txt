@@ -1,0 +1,5 @@
+;
+
+een nieuw profiel aanmaken		(10)
+een profiel verwijderen			(11)
+

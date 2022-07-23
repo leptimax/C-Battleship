@@ -1,0 +1,8 @@
+;
+error, you have set the same color twice !
+
+would you like to go back to the main menu and reset the default settings ?
+
+yes		(1)
+no		(2)
+

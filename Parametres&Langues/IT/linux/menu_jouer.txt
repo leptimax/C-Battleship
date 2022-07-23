@@ -1,0 +1,8 @@
+;
+Giocare :
+
+Nuovo gioco 	(1)
+Carica un gioco (2)
+Replay 		(3)
+Ritorno 	(4)
+

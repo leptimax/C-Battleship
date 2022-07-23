@@ -1,0 +1,5 @@
+130;
+Nicht gespeicherte Fortschritte gehen verloren. Möchten Sie beenden ?
+
+Ja	(1)
+Nein	(2)

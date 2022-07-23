@@ -1,0 +1,31 @@
+130139139139;
+			Crédits
+
+	AFFICHAGE ......   Maxime CHARMOILLE
+	  	  ......   Loïs MAILLOT
+		  ......   Lucas SCHAPPLER
+
+	GESTION JOUEUR ... Lucas SCHAPPLER
+
+	IA ...........     Maxime CHARMOILLE
+
+	SAUVEGARDE .....   Loïs MAILLOT
+
+	REPLAY .........   Loïs MAILLOT
+
+	OPTIONS ........   Maxime CHARMOILLE
+		........   Lucas SCHAPPLER
+
+	TRADUCTION .....   Maxime CHARMOILLE
+	   	   .....   Seccotine BUEE
+	   	   .....
+
+
+======================= REMERCIEMENTS ===============================
+
+Seccotine BUEE pour la traduction en islandais et en allemand
+Katia BRUNO pour la traduction en italien
+
+=====================================================================
+
+

@@ -1,0 +1,2 @@
+130;
+Erreur, impossibe d'acc%cder au fichier de sauvegarde, essayer un autre fichier :

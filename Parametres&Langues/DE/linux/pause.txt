@@ -1,0 +1,2 @@
+;
+	Menü anhalten	(P)                            Spiel speichern und beenden    (Q)

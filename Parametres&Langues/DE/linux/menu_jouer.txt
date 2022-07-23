@@ -1,0 +1,8 @@
+;
+Spielen :
+
+Neues Spiel 	(1)
+Lade ein Spiel 	(2)
+Wiederholung 	(3)
+Rückkehr 	(4)
+

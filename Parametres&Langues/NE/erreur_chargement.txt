@@ -1,0 +1,3 @@
+;
+Er is een fout opgetreden tijdens het laden van het spel, 
+terug naar het hoofdmenu

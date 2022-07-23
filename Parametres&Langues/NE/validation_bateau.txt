@@ -1,0 +1,6 @@
+;
+wilt u de locatie van uw boten bevestigen ?
+
+ja	(1)
+geen	(2)
+

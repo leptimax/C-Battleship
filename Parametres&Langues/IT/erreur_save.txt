@@ -1,0 +1,2 @@
+138138;
+Si %c verificato un errore, il backup non %c stato eseguito

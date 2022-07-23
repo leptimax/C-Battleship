@@ -1,0 +1,2 @@
+;
+Error, imposible acceder al archivo de copia de seguridad, pruebe con otro:

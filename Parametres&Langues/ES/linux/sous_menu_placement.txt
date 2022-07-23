@@ -1,0 +1,6 @@
+;
+Quieres borrar :
+
+1 barco		  (1)
+Todos los barcos  (2)
+Cancelar        (otros)

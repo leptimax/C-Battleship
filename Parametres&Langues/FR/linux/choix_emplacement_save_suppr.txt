@@ -1,0 +1,3 @@
+133;
+Veuillez choisir un emplacement de sauvegarde à supprimer :
+

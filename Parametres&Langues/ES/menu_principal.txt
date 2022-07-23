@@ -1,0 +1,11 @@
+141130;
+El acorazado :
+
+Juega        		(1)
+Estad%csticas 		(2)
+Opciones      		(3)
+Ayuda         		(4)
+Cr%cditos      		(5)
+cambiar de usuario 	(6)
+Deje      		(7)
+

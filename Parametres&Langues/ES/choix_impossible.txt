@@ -1,0 +1,2 @@
+160;
+El valor seleccionado no est%c entre las opciones posibles. Por favor, empiece de nuevo.

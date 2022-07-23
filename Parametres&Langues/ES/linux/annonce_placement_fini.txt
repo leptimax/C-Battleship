@@ -1,0 +1,2 @@
+164;
+Ya ha colocado todos los barcos de este tamaño. ¡Empiece de nuevo!

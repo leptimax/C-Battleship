@@ -1,0 +1,4 @@
+162162;
+
+Reiniciar la instalaciòn del barco 		(1)
+validar la ubicaciòn y comenzar el juego 	(7)

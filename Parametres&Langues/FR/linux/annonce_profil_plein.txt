@@ -1,0 +1,2 @@
+130;
+Tous les emplacements de sauvegarde sont remplis, veuillez supprimer un utilisateur avant d'en recréer un !

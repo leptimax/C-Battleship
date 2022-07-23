@@ -1,0 +1,6 @@
+161;
+Se utilizan todas las ubicaciones de respaldo, ¿quieres sobrescribir
+una ubicación?
+
+sì	(1)
+no	(2)

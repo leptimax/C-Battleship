@@ -1,0 +1,6 @@
+148132;
+M%cchten Sie den Standort Ihrer Boote best%ctigen?
+
+Ja	(1)
+Nein	(2)
+

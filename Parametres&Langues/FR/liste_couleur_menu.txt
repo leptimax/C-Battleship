@@ -1,0 +1,12 @@
+130;
+Veuillez s%clectionne la nouvelle couleur a appliquer :
+
+Blanc		(1)
+Rouge		(2)
+Vert		(3)
+Jaune		(4)
+Bleu		(5)
+Magenta		(6)
+Cyan		(7)
+
+Retour		(8)

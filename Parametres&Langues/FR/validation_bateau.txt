@@ -1,0 +1,6 @@
+;
+Voulez-vous confirmer l'emplacement de vos bateaux ?
+
+Oui	(1)
+Non	(2)
+

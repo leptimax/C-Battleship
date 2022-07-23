@@ -1,0 +1,8 @@
+;
+Jouer :
+
+Nouvelle partie    (1)
+Charger une partie (2)
+Replay             (3)
+Retour             (4)
+

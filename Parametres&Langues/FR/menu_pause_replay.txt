@@ -1,0 +1,8 @@
+138;
+Menu Pause :
+
+Continuer			(1)
+Param%ctres			(2)
+Retour au menu principal	(3)
+Quitter				(4)
+

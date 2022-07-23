@@ -1,0 +1,7 @@
+130;
+
+kleurloze modus		(4)
+
+standaardkleuren	(5)
+
+terugsturen		(6)

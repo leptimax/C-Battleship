@@ -1,0 +1,5 @@
+160168161;
+Barcos en Cualquier progreso no guardado se perder%c, %cquieres salir?
+
+S%c (1)
+No (2)

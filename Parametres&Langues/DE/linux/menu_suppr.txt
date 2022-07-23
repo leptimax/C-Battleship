@@ -1,0 +1,4 @@
+130;
+
+Setzen Sie die Bootsinstallation zurück 	(1)
+Überprüfe den Ort und starte das Spiel	        (7)

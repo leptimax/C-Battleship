@@ -1,0 +1,8 @@
+173168161163162161;
+Error, %chas definido el mismo color dos veces!
+
+%cLe gustar%ca volver al men%c principal y restablecer la configuraci%cn predeterminada?
+
+S%c 		(1)
+No 		(2)
+

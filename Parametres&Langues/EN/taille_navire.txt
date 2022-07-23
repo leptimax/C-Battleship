@@ -1,0 +1,2 @@
+130;
+Enter the size of the ship removed :

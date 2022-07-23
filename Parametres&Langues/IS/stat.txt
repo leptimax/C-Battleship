@@ -1,0 +1,49 @@
+0?0.0?0.0?0.0?0.0;
+0?0.0?0.0?0.0?0.0;
+0?0?0?0?0;
+0?0?0?0?0;
+0.0?0.0?0.0?0.0?0.0;
+0.0;
+133133133133133133133133133133133133133133133130133133133133133130133133133133133;
+
+temps moyen d'une partie :
+	
+	face %c l'IA lvl 1 : 	!
+	face %c l'IA lvl 2 :	!
+	face %c l'IA lvl 3 :	!
+	face %c l'IA lvl 4 :	!
+	face %c l'IA lvl 5 :	!
+
+nombre de coup moyen :
+
+	face %c l'IA lvl 1 : 	!
+	face %c l'IA lvl 2 :	!
+	face %c l'IA lvl 3 :	!
+	face %c l'IA lvl 4 :	!
+	face %c l'IA lvl 5 :	!
+
+nombre de victoire :
+
+	face %c l'IA lvl 1 : 	/
+	face %c l'IA lvl 2 :	/
+	face %c l'IA lvl 3 :	/
+	face %c l'IA lvl 4 :	/
+	face %c l'IA lvl 5 :	/
+
+nombre de d%cfaite :
+
+	face %c l'IA lvl 1 : 	/
+	face %c l'IA lvl 2 :	/
+	face %c l'IA lvl 3 :	/
+	face %c l'IA lvl 4 :	/
+	face %c l'IA lvl 5 :	/
+
+ratio victoire d%cfaite :
+
+	face %c l'IA lvl 1 : 	!
+	face %c l'IA lvl 2 :	!
+	face %c l'IA lvl 3 :	!
+	face %c l'IA lvl 4 :	!
+	face %c l'IA lvl 5 :	!
+
+temps de jeu total :	!

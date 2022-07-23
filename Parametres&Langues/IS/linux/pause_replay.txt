@@ -1,0 +1,2 @@
+;
+	Vista og hætta í leiknum	(P)                            Aftur í aðalvalmynd    (ESC)

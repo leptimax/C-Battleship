@@ -1,0 +1,6 @@
+;
+Wilt u verwijderen :
+
+1 boot		  (1)
+Alle boten	  (2)
+Annuleer        (andere)

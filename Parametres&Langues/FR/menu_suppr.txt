@@ -1,0 +1,4 @@
+130;
+
+R%cinitialiser l'installation des bateaux 	(1)
+Valider l'emplacement et commencer la partie    (7)

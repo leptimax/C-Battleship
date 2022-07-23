@@ -1,0 +1,12 @@
+236160208161208145160160145;
+Vinsamlegast veldu n%cja litinn sem %c a%c nota:
+
+Hv%ctur 		(1)
+Rau%cur 		(2)
+Gr%cnn 		(3)
+Gulur 		(4)
+Bl%ctt 		(5)
+Magenta 	(6)
+Bl%cgr%cnt 	(7)
+
+Skila 		(8)

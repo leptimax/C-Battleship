@@ -1,0 +1,13 @@
+130130138135129129136;
+Bitte wählen Sie einen Schwierigkeitsgrad:
+
+Level 1: Christoph Kolumbus, der berühmte Entdecker					(1)
+Level 2: Edouard Montagu, 1. Sandwich-Account: Admiral der Royal Navy			(2)
+Level 3: Louis Thomas Villaret de Joyeuse: Französischer Vizeadmiral			(3)
+Level 4: Günther Lütjens: Admiral der Kriegsmarine und Kommandeur der Bismarck		(4)
+Level 5: Gott: das allwissende Wesen							(5)
+
+Rückkehr										(6)
+
+
+

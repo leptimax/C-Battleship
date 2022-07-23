@@ -1,0 +1,12 @@
+160163145232236214214;
+Vinsamlegast veldu tungum%cl %cr eftirfarandi:
+
+Franska 	(1)
+Enska 		(2)
+Sp%cnska 	(3)
+%c%cska 		(4)
+%ctalska 	(5)
+%cslenska 	(6)
+Hollenska 	(7)
+
+Skila 		(8)

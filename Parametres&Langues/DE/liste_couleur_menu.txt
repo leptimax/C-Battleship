@@ -1,0 +1,12 @@
+132225129129;
+Bitte w%chlen Sie die neue Farbe aus:
+
+Wei%c 		(1)
+Rot 		(2)
+Gr%cn 		(3)
+Gelb 		(4)
+Blau 		(5)
+Magenta 	(6)
+Cyan 		(7)
+
+R%cckkehr 	(8)

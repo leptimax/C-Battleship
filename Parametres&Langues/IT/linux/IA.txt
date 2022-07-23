@@ -1,0 +1,10 @@
+130130138135129129136;
+Vogliate scegliere un livello di difficoltà :
+
+Livello 1 : Cristoforo Colombo : il celebre esploratore 				(1)
+Livello 2 : Edward Montagu : 1° Conte di Sandwich : Ammiraglio della Royal Navy		(2)
+Livello 3 : Louis Thomas Villaret di Joyeuse : Vice Ammiraglio francese			(3)
+Livello 4 : Gunther Lujtens : Ammiraglio dei Kriegs Marine e Commandante della Bismarck	(4)
+Livello 5 : Dio l'Essere Onnisciente							(5)
+
+Indietro 											(6)

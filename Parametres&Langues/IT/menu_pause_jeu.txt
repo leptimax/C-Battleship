@@ -1,0 +1,8 @@
+138;
+Menu di pausa:
+
+Continua 			(1)
+Impostazioni 			(2)
+Salva 				(3)
+Lascia il gioco 		(4)
+Salva ed esci dal gioco 	(5)

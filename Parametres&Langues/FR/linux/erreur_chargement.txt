@@ -1,0 +1,3 @@
+;
+Une erreur lors du chargement de la partie s'est produite, 
+retour au menu principal

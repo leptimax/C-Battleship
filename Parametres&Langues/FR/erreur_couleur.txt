@@ -1,0 +1,8 @@
+130138130;
+erreur, vous avez d%cfini deux fois la meme couleur !
+
+souhaitez-vous revenir au menu principal et remettre les param%ctres par d%cfauts ?
+
+oui		(1)
+non		(2)
+

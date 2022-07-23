@@ -1,0 +1,5 @@
+130;
+Allar óvistaðar framfarir tapast, viltu hætta ?
+
+Já	(1)
+Nei	(2)

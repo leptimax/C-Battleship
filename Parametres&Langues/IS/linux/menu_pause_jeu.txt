@@ -1,0 +1,8 @@
+138;
+Gera hlé á valmyndinni:
+
+Halda áfram 			(1)
+Stillingar 			(2)
+Vista 				(3)
+Yfirgefðu leikinn 		(4)
+Vista og hætta í leiknum 	(5)

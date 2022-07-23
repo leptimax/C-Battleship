@@ -1,0 +1,5 @@
+;
+Choose the size of your boat :
+
+You still have the following boats left :
+

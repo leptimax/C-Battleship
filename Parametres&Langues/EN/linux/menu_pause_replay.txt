@@ -1,0 +1,8 @@
+;
+Pause Menu :
+
+Continue			(1)
+Settings			(2)
+Back to the main menu		(3)
+Exit				(4)
+

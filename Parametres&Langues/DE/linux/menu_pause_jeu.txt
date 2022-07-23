@@ -1,0 +1,8 @@
+138;
+Pausenmenü:
+
+Weiter 					(1)
+Einstellungen 				(2)
+Speichern 				(3)
+Verlasse das Spiel 			(4)
+Speichern und beenden Sie das Spiel 	(5)

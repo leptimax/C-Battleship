@@ -1,0 +1,2 @@
+163;
+		Menù de pausa	(P)                            Guardar y dejar el juego    (Q)

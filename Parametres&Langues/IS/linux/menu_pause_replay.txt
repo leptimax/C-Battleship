@@ -1,0 +1,8 @@
+138;
+Gera hlé á valmyndinni:
+
+Halda áfram 			(1)
+Stillingar 			(2)
+Fara aftur í aðalvalmynd 	(3)
+fara				(4)
+

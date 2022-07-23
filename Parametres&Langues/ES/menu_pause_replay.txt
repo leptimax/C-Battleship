@@ -1,0 +1,8 @@
+151151;
+Men%c de pausa :
+
+Contin%ca			(1)
+Ajustes				(2)
+Volver al men%c principal	(3)
+Deje				(4)
+

@@ -1,0 +1,6 @@
+168162141;
+Se utilizan todas las ubicaciones de respaldo, %cquieres sobrescribir
+una ubicaci%cn?
+
+s%c	(1)
+no	(2)

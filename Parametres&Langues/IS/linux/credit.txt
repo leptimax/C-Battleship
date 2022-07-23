@@ -1,0 +1,29 @@
+130139139139;
+			Einingar
+
+	SÝNING 	...... Maxime CHARMOILLE
+		...... Lois MAILLOT
+		...... Lucas SCHAPPLER
+
+STJÓRNUR LEIKMAÐA .... Lucas SCHAPPLER
+
+	IA ........... Maxime CHARMOILLE
+
+	VARÐARMAÐUR .. Lois MAILLOT
+
+	ENDURSPILA ... Lois MAILLOT
+
+	Valkostir .... Maxime CHARMOILLE
+		...... Lucas SCHAPPLER
+
+	ÞÝÐING ....... Maxime CHARMOILLE
+		...... Seccotine BUEE
+		...... Katia BRUNO
+
+
+======================== VIÐURKENNINGAR =====================================
+
+Seccotine BUEE fyrir íslenska og þýska þýðingu
+Katia BRUNO fyrir ítölsku þýðinguna
+
+============================================================================

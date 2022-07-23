@@ -1,0 +1,3 @@
+138130;
+L'adversaire %c vu une ouverture dans votre d%cfense et vous attaque !
+

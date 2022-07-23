@@ -1,0 +1,2 @@
+;
+		Pause Menu	(P)                            Save and exit the game    (Q)

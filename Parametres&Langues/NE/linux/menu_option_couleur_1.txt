@@ -1,0 +1,6 @@
+130138133;
+Selecteer een kleurinstelling die u wilt wijzigen :
+
+	keuze					kleuren
+
+bootkleuren		(1)			

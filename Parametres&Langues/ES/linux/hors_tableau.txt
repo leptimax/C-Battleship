@@ -1,0 +1,2 @@
+160;
+La coordenada ingresada está fuera de la tabla. Empiece de nuevo.

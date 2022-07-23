@@ -1,0 +1,8 @@
+160;
+Opciones :
+
+Colores        (1)
+Idiomas        (2)
+
+Regreso        (3)
+

@@ -1,0 +1,31 @@
+139139139;
+			Credits
+
+	DIRECTOR .......   Maxime CHARMOILLE
+
+	DISPLAY  .......   Maxime CHARMOILLE
+	  	 .......   Lo%cs MAILLOT
+
+	PLAYER    ......   Lucas SCHAPPLER
+	MANAGEMENT 
+
+	AI   ...........   Maxime CHARMOILLE
+
+	SAVE    ........   Lo%cs MAILLOT
+
+	REPLAY .........   Lo%cs MAILLOT
+       	       .........   Maxime CHARMOILLE
+
+	OPTIONS ........   Maxime CHARMOILLE
+		........   Lucas SCHAPPLER
+
+	TRANSLATE  .....   Maxime CHARMOILLE
+	   	   .....   Seccotine BUEE
+	   	   .....
+
+
+======================= REMERCIEMENTS ===============================
+
+Seccotine BUEE for translation into Icelandic and German
+
+=====================================================================

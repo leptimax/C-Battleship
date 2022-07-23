@@ -1,0 +1,43 @@
+133133133133133133133133133133133133133133133130133133133133133130133133133133133;
+temps moyen d'une partie :
+	
+	face à l'IA lvl 1 : 	!
+	face à l'IA lvl 2 :	!
+	face à l'IA lvl 3 :	!
+	face à l'IA lvl 4 :	!
+	face à l'IA lvl 5 :	!
+
+nombre de coup moyen :
+
+	face à l'IA lvl 1 : 	!
+	face à l'IA lvl 2 :	!
+	face à l'IA lvl 3 :	!
+	face à l'IA lvl 4 :	!
+	face à l'IA lvl 5 :	!
+
+nombre de victoire :
+
+	face à l'IA lvl 1 : 	/
+	face à l'IA lvl 2 :	/
+	face à l'IA lvl 3 :	/
+	face à l'IA lvl 4 :	/
+	face à l'IA lvl 5 :	/
+
+nombre de défaite :
+
+	face à l'IA lvl 1 : 	/
+	face à l'IA lvl 2 :	/
+	face à l'IA lvl 3 :	/
+	face à l'IA lvl 4 :	/
+	face à l'IA lvl 5 :	/
+
+ratio victoire défaite :
+
+	face à l'IA lvl 1 : 	!
+	face à l'IA lvl 2 :	!
+	face à l'IA lvl 3 :	!
+	face à l'IA lvl 4 :	!
+	face à l'IA lvl 5 :	!
+
+temps de jeu total :	!
+

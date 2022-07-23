@@ -1,0 +1,2 @@
+130;
+Alle Speicherplätze sind voll, bitte löschen Sie einen Benutzer, bevor Sie einen neu erstellen !

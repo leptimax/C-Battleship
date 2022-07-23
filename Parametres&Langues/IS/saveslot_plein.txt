@@ -1,0 +1,6 @@
+208208161208160;
+Allir vista%cir sta%cir eru %c notkun, viltu skrifa yfir
+sta%csetning?
+
+J%c 	(1)
+Nei 	(2)

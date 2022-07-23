@@ -1,0 +1,2 @@
+;
+Si è verificato un errore, il backup non è stato eseguito

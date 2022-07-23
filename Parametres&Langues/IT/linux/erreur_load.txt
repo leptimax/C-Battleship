@@ -1,0 +1,2 @@
+130;
+Errore, impossibile accedere al file di backup, prova un altro file :

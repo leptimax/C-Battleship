@@ -1,0 +1,3 @@
+;
+
+Bitte geben Sie die Schusskoordinaten ein :

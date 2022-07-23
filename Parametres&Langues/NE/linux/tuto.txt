@@ -1,0 +1,48 @@
+137148148148;
+                                Welkom bij uw nieuwe hobby: slagschip
+
+
+Laten we eerst de essenti%cle basis leggen voor het spelen van deze versie van het spel.
+
+Allereerst ziet u na het starten van een spel een venster dat overeenkomt met uw zeegebied.
+Voordat u het spel begint, moet u uw boten plaatsen, om dit te doen moet u kiezen voor
+een schip te plaatsen en voer vervolgens de co%crdinaten in van het eerste vakje waar uw schip zal
+worden geplaatst. Kies dan een einde van de plaatsing te co%crdineren onder de voorgestelde. U zult dan zien
+op uw zeegebied groene kruizen die uw "bootboxen" aangeven. U kunt verander de locatie van uw schepen
+gedurende de hele vestiging van uw vloot.
+
+Over schepen gesproken, laten we eens kijken naar de verschillende schepen die je zult hebben:
+
+- Een AIRCRAFT CARRIER (we beknibbelen niet op middelen ^) vertegenwoordigd door 5 opeenvolgende bootvakken
+
+- Een CRUISER vertegenwoordigd door 4 opeenvolgende bootplaatsen
+
+- Een SUBMARINE (en ja, het is stil !) vertegenwoordigd door 3 opeenvolgende bootruimtes
+
+- Een COUNTER TORPILE vertegenwoordigd door 3 opeenvolgende bootvakken
+
+- Een TORPILE vertegenwoordigd door 2 opeenvolgende bootplaatsen
+
+Zodra uw vloot is geplaatst, bevestigt u hun locatie. Dit zal het venster sluiten
+totdat de AI klaar is. Zodra de AI klaar is, zal het spelvenster tonen
+met je zee-zone aan de ene kant en je tegenstander aan de andere.
+
+Nu je een vloot hebt, laten we eens kijken naar de bases voor het aanvallen van je tegenstander.
+
+Om aan te vallen, selecteer je co%crdinaten om te groeven. U zult dan zien
+een kruis op de geselecteerde locatie. Als je een ander gebouw hebt geraakt, dan is het kruis
+zal rood worden, als je het gemist hebt, zal het wit worden. WAARSCHUWING dat je een
+Beperkte tijd om te spelen!
+
+Als je eenmaal gevuurd hebt, moet je wachten tot je tegenstander klaar is
+om te spelen om weer aan te vallen. Wanneer je tegenstander aanvalt, zullen zijn schoten
+aangegeven op uw terrein door een wit kruis als ze gemist hebben of door een rood kruis
+als ze een van je schepen raken.
+
+Voer een willekeurige sleutel in om het spel te starten, je kunt me laten verschijnen
+door op de helpknop in het spelvenster te drukken!
+
+                        Uw zet nu, veel geluk Admiraal.
+
+
+                                                                Created by Dabbing Meerkats Studio

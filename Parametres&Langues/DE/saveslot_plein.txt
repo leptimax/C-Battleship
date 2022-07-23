@@ -1,0 +1,6 @@
+148129;
+Alle Speicherorte werden verwendet. M%cchten Sie %cberschreiben?
+ein Ort ?
+
+Ja	(1)
+Nein	(2)

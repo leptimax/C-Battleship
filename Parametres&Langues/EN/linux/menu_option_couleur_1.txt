@@ -1,0 +1,6 @@
+;
+Please select a color setting to change :
+
+	Choice					color
+
+boats color	(1)			

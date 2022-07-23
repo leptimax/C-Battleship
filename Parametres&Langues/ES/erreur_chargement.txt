@@ -1,0 +1,2 @@
+151;
+Se produjo un error al cargar el juego, volver al men%c principal

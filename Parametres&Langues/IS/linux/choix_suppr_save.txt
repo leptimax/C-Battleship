@@ -1,0 +1,3 @@
+;
+Eyða staðsetningu		(10)
+Komdu aftur			(11)

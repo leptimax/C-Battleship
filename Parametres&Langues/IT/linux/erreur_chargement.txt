@@ -1,0 +1,2 @@
+;
+Si è verificato un errore durante il caricamento del gioco, Indietro al menù principale

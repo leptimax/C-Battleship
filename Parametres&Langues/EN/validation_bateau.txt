@@ -1,0 +1,6 @@
+;
+do you want to confirm the location of your boats ?
+
+yes	(1)
+no	(2)
+

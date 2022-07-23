@@ -1,0 +1,3 @@
+;
+Supprimer un emplacement	(10)
+Retour				(11)

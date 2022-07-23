@@ -1,0 +1,7 @@
+130;
+
+Mode daltonien		(4)
+
+Couleurs par d%cfaut	(5)
+
+Retour			(6)

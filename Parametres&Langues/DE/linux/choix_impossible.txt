@@ -1,0 +1,2 @@
+;
+Der gewählte Wert ist keine der möglichen Auswahlmöglichkeiten. Bitte fangen Sie von vorne an

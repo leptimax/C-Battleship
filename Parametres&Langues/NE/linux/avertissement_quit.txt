@@ -1,0 +1,5 @@
+;
+Elke niet geredde vooruitgang zal verloren gaan, wil je er mee stoppen ?
+
+ja	(1)
+geen	(2)

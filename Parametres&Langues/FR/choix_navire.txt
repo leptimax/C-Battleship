@@ -1,0 +1,5 @@
+;
+Choisissez la taille de votre bateau :
+
+Il vous reste les navires suivant :
+

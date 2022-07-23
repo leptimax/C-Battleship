@@ -1,0 +1,6 @@
+;
+Möchten Sie den Standort Ihrer Boote bestätigen?
+
+Ja	(1)
+Nein	(2)
+

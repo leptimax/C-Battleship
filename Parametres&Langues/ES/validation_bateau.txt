@@ -1,0 +1,6 @@
+168149141;
+%cQuiere confirmar la ubicaci%cn de sus barcos?
+
+s%c	(1)
+no	(2)
+

@@ -1,0 +1,2 @@
+;
+All saveslots are empty, please suppress a user before create one again !

@@ -1,0 +1,9 @@
+138;
+
+Menu di pausa:
+
+Continua 			(1)
+Impostazioni 			(2)
+Torna al menu principale 	(3)
+Uscita 				(4)
+

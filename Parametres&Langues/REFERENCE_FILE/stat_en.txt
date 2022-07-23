@@ -1,0 +1,42 @@
+;
+average time of a game:
+
+	facing the AI ​​lvl 1:	!
+	facing the AI ​​lvl 2:	!
+	facing the AI ​​lvl 3:	!
+	facing the AI ​​lvl 4:	!
+	facing the AI ​​lvl 5:	!
+
+average number of hits:
+
+	facing the AI ​​lvl 1:	!
+	facing the AI ​​lvl 2:	!
+	facing the AI ​​lvl 3:	!
+	facing the AI ​​lvl 4:	!
+	facing the AI ​​lvl 5:	!
+
+number of wins:
+
+	facing the AI ​​lvl 1: 	/
+	facing the AI ​​lvl 2: 	/
+	facing the AI ​​lvl 3: 	/
+	facing the AI ​​lvl 4: 	/
+	facing the AI ​​lvl 5: 	/
+
+number of defeats:
+
+	facing the AI ​​lvl 1: 	/
+	facing the AI ​​lvl 2: 	/
+	facing the AI ​​lvl 3: 	/
+	facing the AI ​​lvl 4: 	/
+	facing the AI ​​lvl 5: 	/
+
+win-loss ratio:
+
+	facing the AI ​​lvl 1:	!
+	facing the AI ​​lvl 2:	!
+	facing the AI ​​lvl 3:	!
+	facing the AI ​​lvl 4:	!
+	facing the AI ​​lvl 5:	!
+
+total playing time:	!

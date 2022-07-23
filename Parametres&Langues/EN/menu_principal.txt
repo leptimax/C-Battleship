@@ -1,0 +1,11 @@
+;
+The Battleship :
+
+Play        		(1)
+Statistics 		(2)
+Options      		(3)
+Help         		(4)
+Credits      		(5)
+change user	 	(6)
+Exit      		(7)
+

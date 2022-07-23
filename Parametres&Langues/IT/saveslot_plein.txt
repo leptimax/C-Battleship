@@ -1,0 +1,6 @@
+141;
+Tutte le posizioni di salvataggio sono in uso, vuoi sovrascriverle
+Un posto?
+
+S%c (1)
+No (2)

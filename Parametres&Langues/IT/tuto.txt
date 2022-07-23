@@ -1,0 +1,44 @@
+133133133133;
+                                Benvenuti nel vostro nuovo passa tempo : la battaglia navale
+
+
+Prima di tutto, poniamo le basi essenziali per giocare a questa versione del gioco.
+
+Inizialmente, vedrete dopo aver cominciato una partita una finestra corrispondente alla vostra zona marittima.
+Prima di cominciare la partita, dovrete posizionare le vostre navi. Scegliete inseguito una coordinata di
+posizionamento tra quelle proposte. Vedrete allora apparire sulla vostra zona marittima delle croci verdi
+indicando le vostre "caselle navi" potete modificare il posizionamento delle vostre navi durante tutto il
+tempo dell'impostazione della vostra flotta.
+
+Parlando delle navi, vediamo i differenti navigli che avrete :
+
+- UN PORTAEREI (non lesiniamo su i mezzi) rappresentato da 5 caselle navi consecutive
+
+- UN INCRICIATORE rappresentato da 4 caselle navi consecutive
+
+- UN SOTTOMARINO (e si, questa calma !) rappresentato da 5 caselle navi consecutive
+
+- UN CONTRO TORPEDINIERA rappresentato da 3 caselle navi consecutive
+
+- UN TORPEDINIERA rappresentato da 2 caselle navi consecutive
+
+Posizionata la vostra flotta,confermate il loro posizionamento. Questo chiuder%c la finestra in attesa che
+l'IA sia pronto. Una volta che l'IA appare, la finestra del gioco si mostrer%c  da un lato con la vostra
+zona marittima e dall'altra quella del vostro avversaario.
+
+Ora che avete una flotta, vediamo le basi per attaccare il vostro avversario.
+
+Per attaccare, selezionate le coordinate da bombardare. Vedrete quindi apparire una croce sul posizionamento
+selezionato. Se colpite la nave dell'avversario, la croce diventer%c rossa, se la mancate diventer%c bianca.
+ATTENZIONE avete un tempo limitato per giocare !
+
+Una volta che avrete sparato, sarete obbligati ad aspettare che il vostro avversario abbia finito di giocare
+prima di attaccare dinuovo.Quando il vostro avversario attacca, i suoi colpi saranno indicati sulla vostra
+zona da una croce bianca se le mancano o da una croce rossa se hanno colpito una delle vostre navi.
+
+Inserite qualsiasi tasto per iniziare la parttita, potrete farmi apparire premendo il tasto di aiuto nella finestra del gioco !
+
+                        Ora tocca a voi, buona fortuna Ammiraglio
+
+
+                                                                Created by Dabbing Meerkats Studio

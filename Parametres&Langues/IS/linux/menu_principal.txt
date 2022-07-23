@@ -1,0 +1,11 @@
+;
+Sjóbaráttan:
+
+Spila 			(1)
+Tölfræði 		(2)
+Valkostir 		(3)
+Hjálp 			(4)
+Einingar 		(5)
+skipta um notanda 	(6)
+Útgangur 		(7)
+

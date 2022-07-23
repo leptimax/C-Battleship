@@ -1,0 +1,12 @@
+130;
+Vinsamlegast veldu nýja litinn sem á að nota:
+
+Hvítur 		(1)
+Rauður 		(2)
+Grænn 		(3)
+Gulur 		(4)
+Blátt 		(5)
+Magenta 	(6)
+Blágrænt 	(7)
+
+Skila 		(8)

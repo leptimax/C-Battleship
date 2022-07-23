@@ -1,0 +1,12 @@
+132148132132129;
+Bitte w%chlen Sie eine der folgenden Sprachen aus:
+
+Franz%csisch 	(1)
+Englisch 	(2)
+Spanisch 	(3)
+Deutsch 	(4)
+Italienisch 	(5)
+Isl%cndisch 	(6)
+Niederl%cndisch 	(7)
+
+R%cckkehr 	(8)

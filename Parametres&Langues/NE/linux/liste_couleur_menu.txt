@@ -1,0 +1,12 @@
+130;
+Selecteer de nieuwe kleur die u wilt toepassen :
+
+wit		(1)
+rood		(2)
+groene		(3)
+geel		(4)
+blauw		(5)
+magenta		(6)
+cyaan		(7)
+
+terugsturen	(8)

@@ -1,0 +1,5 @@
+164;
+Elija el tamaño de su barco:
+
+Te quedan los siguientes barcos:
+

@@ -1,0 +1,48 @@
+162130160160160160162160161162160224173161162160130160161160160162160160224160160162;
+                                Bienvenido a tu nuevo pasatiempo: la batalla naval
+
+
+En primer lugar, vamos a sentar las bases fundamentales para jugar a esta versi%cn del juego.
+
+En primer lugar, despu%cs de iniciar un juego, ver%c una ventana correspondiente a su zona de mar.
+Antes de iniciar el juego, tendr%cs que colocar tus naves, para ello tendr%cs que seleccionar
+un barco para colocar y luego ingrese las coordenadas del primer cuadro donde se colocar%c su bote.
+Luego elija una coordenada de fin de ubicaci%cn entre las propuestas. Entonces ver%cs aparecer
+en su zona mar%ctima, cruces verdes que indican sus "espacios para botes". Usted puede
+cambie la ubicaci%cn de sus barcos durante el establecimiento de su flota.
+
+Hablando de barcos, veamos los diferentes barcos que tendr%cs:
+
+- UN PORTADOR DE AVI%cN (no escatimamos en medios ^^) representado por 5 espacios de barco consecutivos
+
+- UN CRUCERO representado por 4 espacios de barco consecutivos
+
+- UN SUBMARINO (%cs%c, eso es tranquilo!) Representado por 3 espacios de bote consecutivos
+
+- UN CONTRA-TORPEDO representado por 3 espacios de bote consecutivos
+
+- UN TORPEDO representado por 2 espacios de barco consecutivos
+
+Una vez colocada su flota, confirme su ubicaci%cn. Esto cerrar%c la ventana
+hasta que la IA est%c lista. Una vez que se detiene la IA, se mostrar%c la ventana del juego
+con tu zona mar%ctima de un lado y tu oponente del otro.
+
+Ahora que tienes una flota, echemos un vistazo a los conceptos b%csicos para atacar a tu oponente.
+
+Para atacar, seleccione las coordenadas para rastrear. Entonces ver%cs aparecer
+una cruz en la ubicaci%cn seleccionada. Si golpea un edificio opuesto, la cruz
+se volver%c rojo, si no lo has visto, se volver%c blanco. ATENCI%cN tienes un
+tiempo limitado para jugar!
+
+Una vez que disparas, te ves obligado a esperar a que tu oponente termine
+jugar para empezar a atacar de nuevo. Cuando tu oponente ataque, sus disparos ser%cn
+indicado en su %crea con una cruz blanca si fallaron o con una cruz roja
+si chocan contra uno de sus barcos.
+
+Ingresa cualquier tecla para iniciar el juego, puedes hacerme aparecer
+presionando el bot%cn de ayuda en la ventana del juego!
+
+                        Tu turno de jugar ahora, buena suerte Almirante
+
+
+                                                                Creado por Dabbing Meerkats Studio

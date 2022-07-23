@@ -1,0 +1,2 @@
+130133130;
+You have already placed all your boats of this size. Please, try again !

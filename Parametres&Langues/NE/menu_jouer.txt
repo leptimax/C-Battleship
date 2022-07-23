@@ -1,0 +1,8 @@
+;
+Spelen :
+
+Nieuw spel	   (1)
+Laad een spel	   (2)
+Herhaal            (3)
+Terugnaar          (4)
+

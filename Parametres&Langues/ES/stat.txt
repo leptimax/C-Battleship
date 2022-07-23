@@ -1,0 +1,43 @@
+163163163162;
+
+tiempo promedio de una parte :
+	
+	contra AI lvl 1 : 	! min
+	contra AI lvl 2 :	! min
+	contra AI lvl 3 :	! min
+	contra AI lvl 4 :	! min 
+	contra AI lvl 5 :	! min
+
+n%cmero medio de visitas :
+
+	contra AI lvl 1 : 	!
+	contra AI lvl 2 :	!
+	contra AI lvl 3 :	!
+	contra AI lvl 4 :	!
+	contra AI lvl 5 :	!
+
+n%cmero de victoria :
+
+	contra AI lvl 1 : 	/
+	contra AI lvl 2 :	/
+	contra AI lvl 3 :	/
+	contra AI lvl 4 :	/
+	contra AI lvl 5 :	/
+
+n%cmero de derrotas :
+
+	contra AI lvl 1 : 	/
+	contra AI lvl 2 :	/
+	contra AI lvl 3 :	/
+	contra AI lvl 4 :	/
+	contra AI lvl 5 :	/
+
+relaci%cn gana-pierde :
+
+	contra AI lvl 1 : 	!
+	contra AI lvl 2 :	!
+	contra AI lvl 3 :	!
+	contra AI lvl 4 :	!
+	contra AI lvl 5 :	!
+
+tiempo total de juego :		! min

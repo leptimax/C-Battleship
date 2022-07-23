@@ -1,0 +1,35 @@
+132132132129132148132132132132132148132132132225148225132225129129225129148;
+					Willkommen in ihrem neuen Hobby : Schiffe versenken.
+
+
+Hier sind die Regeln, um zu spielen.
+
+Wenn Sie ein Spiel begonnen haben, sehen Sie ein Fenster : dieses Fenster ist Ihr eigenes Meer. Um Ihre Schiffe zu legen,
+w%chlen Sie ein Schiff aus und geben Sie die Koordinate des ersten K%cstchen von Ihrem Schiff ein. Dann w%chlen Sie eine
+andere Koordinate aus. Sie sehen auf Ihrem eigenen Meer gr%cne Kreuze, die Ihre Schiffe darstellen.
+
+W%chrend der Platzierung Ihrer Flotte k%cnnen Sie die Stelle. Ihrer Schiffe %cndern.
+
+Ihre Flotte besteht aus :
+
+- einem Flugzeugtr%cger (5 K%cstchen)
+- einem Kreuzer (4 K%cstchen)
+- einem U-Boot (3 K%cstchen)
+- einem Zerst%crer (3 K%cstchen)
+- einem Torpedoboot (2 K%cstchen)
+
+Wenn Sie Ihre Flotte gelegt haben, best%ctigen Sie Ihre Platzierung. Das Fenster wird sich schlie%cen und die KI wird laden.
+Wenn die KI bereit ist, %cffnet sich ein Fenster. Sie sehen einerseits Ihr eigenes Meer und andererseits das gegnerische Meer.
+Um zu schie%cen, w%chlen Sie eine Koordinate aus. Dann werden Sie auf dieser Koordinate ein Kreuz sehen.
+
+Wenn Sie ein gegnerisches Schiff getroffen haben, wird das Kreuz rot. Wenn Sie es verfehlt haben, wird das Kreuz wei%c.
+Achtung ! Sie haben eine begrenzte Zeit, um zu spielen !
+
+Dann m%cssen Sie warten, dass der Gegner geschossen hat, um wieder anzugreifen. Wenn der Gegner feuert, werden seine Sch%csse
+wei%ce Kreuze, wenn sie verfehlt haben oder rote Kreuze, wenn sie ein Schiff getroffen haben.
+
+Dr%ccken Sie eine Taste, um ein Spiel zu beginnen. Sie k%cnnen auch um Hilfe bitten, wenn Sie spielen !
+
+						Viel Erfolg Admiral !
+
+											Created by Dabbing Meerkats Studio

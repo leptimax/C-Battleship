@@ -1,0 +1,6 @@
+130138133;
+Veuillez sélectionner un paramètres couleurs à modifier :
+
+	Choix					Couleurs
+
+Couleurs bateaux	(1)			

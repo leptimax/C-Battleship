@@ -1,0 +1,6 @@
+148148;
+M%cchten Sie l%cschen:
+
+1 Boot 		  (1)
+Alle Boote 	  (2)
+Abbrechen 	(andere)

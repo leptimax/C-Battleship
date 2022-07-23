@@ -1,0 +1,2 @@
+138151;
+Si %c verificato un errore durante il caricamento del gioco, Indietro al men%c principale

@@ -1,0 +1,3 @@
+;
+Delete a location		(10)
+return				(11)

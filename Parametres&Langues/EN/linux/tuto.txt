@@ -1,0 +1,44 @@
+;
+					Welcome to your new hobby : Battleship !
+
+Let's begin by covering the basics for this version of the game.
+
+Immediately after starting a new game, a window will display representing your own part of the sea, or "sea grid".
+Before the battle begins, you will need to place your ships.
+To do so, you must select the ship you want to place, before inputting the coordinates of the first square it will occupy.
+The game will then list all compatible squares where the end of your ship may be located, each corresponding to an orientation.
+
+For example, choosing coordinate A1 for a torpedo boat will yield squares A2 and B1 as options.
+
+As you make your choice, green crosses will appear on your sea grid locating your fleet.
+
+Speaking of your fleet - let's review all the ships at your disposal :
+
+-An AIRCRAFT CARRIER (our army isn't afraid to spend lots ^^), taking up five consecutive squares.
+
+-A BATTLE CRUISER, occupying four
+
+-A SUBMARINE (impressive, eh ?), taking up three
+
+-A DESTROYER, also three squares long
+
+-And its counterpart the TORPEDO BOAT, the shortest ship at two squares of length.
+
+Once the entire fleet is stationed, confirm its formation, and the window will close while the AI prepares itself.
+Once it is ready, a new window will pop up, with your sea grid on one side and the opponent's on the other.
+
+Since you have warships at the ready, let's see how you can launch an attack.
+
+Offensives are launched by giving target coordinates. A cross will highlight the square you chose.
+It will be red if you have hit an enemy ship, and white otherwise.
+Be careful : you have a time limit to make your move.
+
+After your turn ends, you will have to wait for your opponent to attack you as well.
+As for yours, its shots are marked by white crosses if they fail, and red crosses if they succeed.
+
+You can bring me back at any time to help you by clicking the help button in the game window.
+Press any key to start the game !
+
+					Good luck, Admiral.
+
+									Created by Dabbing Meerkats Studio

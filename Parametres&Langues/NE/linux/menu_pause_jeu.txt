@@ -1,0 +1,8 @@
+138;
+Pauze Menu :
+
+Ga verder met				(1)
+Instellingen				(2)
+Bespaar					(3)
+Sluit het spel af			(4)
+Opslaan en stoppen met het spel		(5)

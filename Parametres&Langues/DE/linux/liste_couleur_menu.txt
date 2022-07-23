@@ -1,0 +1,12 @@
+130;
+Bitte wählen Sie die neue Farbe aus:
+
+Weiß 		(1)
+Rot 		(2)
+Grün 		(3)
+Gelb 		(4)
+Blau 		(5)
+Magenta 	(6)
+Cyan 		(7)
+
+Rückkehr 	(8)

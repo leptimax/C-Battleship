@@ -1,0 +1,8 @@
+130136138130;
+fout, je hebt twee keer dezelfde kleur ingesteld !
+
+Wilt u terug naar het hoofdmenu en de standaardinstellingen resetten ?
+
+ja		(1)
+geen		(2)
+

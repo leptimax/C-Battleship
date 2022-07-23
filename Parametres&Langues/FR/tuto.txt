@@ -1,0 +1,48 @@
+133138130136133130133130138151130130130140130130130130130130130130135130130130130130130130130130130136136130136147130130133140130133130130131130130130130136130133130130130130140136133130;
+                                Bienvenue dans votre nouveau passe-temps : la bataille navale
+
+
+Avant tout, posons les bases essentielles pour jouer %c cette version du jeu.
+
+Tout d'abord, vous verrez apr%cs avoir commenc%c une partie une fen%ctre correspondant %c votre zone maritime.
+Avant de commencer la partie, vous devrez placer vos bateaux, pour cela il vous faudra s%clectionner
+un navire %c placer puis entrer les coordonn%ces de la premi%cre case o%c sera plac%c votre bateau.
+Choisissez ensuite une coordonn%ce de fin de placement parmi celles propos%ces. Vous verrez alors appara%ctre
+sur votre zone maritime des croix vertes indiquant vos "cases bateaux". Vous pouvez
+modifier l'emplacement de vos navires tout le long de la mise en place de votre flotte.
+
+En parlant de bateaux, voyons les diff%crents navires que vous aurez :
+
+- UN PORTE-AVION (on ne l%csine pas sur les moyens ^^) repr%csent%c par 5 cases bateaux cons%ccutives
+
+- UN CROISEUR repr%csent%c par 4 cases bateaux cons%ccutives
+
+- UN SOUS-MARIN (et ouais, %ca calme !) repr%csent%c par 3 cases bateaux cons%ccutives
+
+- UN CONTRE-TORPILLEUR repr%csent%c par 3 cases bateaux cons%ccutives
+
+- UN TORPILLEUR repr%csent%c par 2 cases bateaux cons%ccutives
+
+Une fois votre flotte plac%ce, confirmez leur emplacement. Cela fermera la fen%ctre
+en attendant que l'IA soit pr%cte. Une fois l'IA par%ce, la fen%ctre de jeu s'affichera
+avec d'un c%ct%c votre zone maritime et de l'autre celle de votre adversaire.
+
+Maintenant que vous avez une flotte, voyons les bases pour attaquer votre adversaire.
+
+Pour attaquer, s%clectionnez des coordonn%ces %c pilloner. Vous verrez alors appara%ctre
+une croix %c l'emplacement s%clectionn%c. Si vous avez touch%c un b%ctiment adverse, la croix
+deviendra rouge, si vous l'avez rat%c, elle deviendra blanche. ATTENTION vous avez un
+temps limit%c pour jouer !
+
+Une fois que vous avez tir%c, vous %ctes oblig%c d'attendre que votre adversaire ait fini
+de jouer pour recommencer %c attaquer. Lorsque votre adversaire attaque, ses tirs seront
+indiqu%cs sur votre zone par une croix blanche si ils ont rat%c ou par une croix rouge
+si ils ont touch%c un de vos navires.
+
+Entrez n'importe quelle touche pour d%cbuter la partie, vous pouvez me faire appara%ctre
+en appuyant sur le bouton d'aide dans la fen%ctre de jeu !
+
+                        A vous de jouer %c pr%csent, bonne chance Amiral
+
+
+                                                                Created by Dabbing Meerkats Studio

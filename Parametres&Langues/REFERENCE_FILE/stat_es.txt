@@ -1,0 +1,44 @@
+;
+;
+
+tiempo promedio de un juego:
+
+	frente a la IA lvl 1 :	!
+	frente a la IA lvl 2 :	!
+	frente a la IA lvl 3 :	!
+	frente a la IA lvl 4 :	!
+	frente a la IA lvl 5 :	!
+
+número medio de aciertos:
+
+	frente a la IA lvl 1 :	!
+	frente a la IA lvl 2 :	!
+	frente a la IA lvl 3 :	!
+	frente a la IA lvl 4 :	!
+	frente a la IA lvl 5 :	!
+
+número de victorias:
+
+	frente a la IA lvl 1: 	/
+	frente a la IA lvl 2: 	/
+	frente a la IA lvl 3: 	/
+	frente a la IA lvl 4: 	/
+	frente a la IA lvl 5: 	/
+
+número de derrotas:
+
+	frente a la IA lvl 1: 	/
+	frente a la IA lvl 2: 	/
+	frente a la IA lvl 3: 	/
+	frente a la IA lvl 4: 	/
+	frente a la IA lvl 5: 	/
+
+ratio de pérdidas y ganancias:
+
+	frente a la IA lvl 1 :	!
+	frente a la IA lvl 2 :	!
+	frente a la IA lvl 3 :	!
+	frente a la IA lvl 4 :	!
+	frente a la IA lvl 5 :	!
+
+tiempo total de juego :		!

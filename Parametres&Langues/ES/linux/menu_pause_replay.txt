@@ -1,0 +1,8 @@
+163163163;
+Menù de pausa :
+
+Contin%ca			(1)
+Ajustes				(2)
+Volver al menù principal	(3)
+Deje				(4)
+

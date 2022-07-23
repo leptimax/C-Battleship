@@ -1,0 +1,12 @@
+;
+Selecteer een van de volgende talen:
+
+Frans		(1)
+Engels		(2)
+Spaans		(3)
+Duits		(4)
+Italiaans	(5)
+IJslandse	(6)
+Nederlands	(7)
+
+terugsturen	(8)

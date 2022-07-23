@@ -1,0 +1,8 @@
+130160160208145161;
+Gera hl%c %c valmyndinni:
+
+Halda %cfram 			(1)
+Stillingar 			(2)
+Vista 				(3)
+Yfirgef%cu leikinn 		(4)
+Vista og h%ctta %c leiknum 	(5)

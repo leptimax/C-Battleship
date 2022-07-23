@@ -1,0 +1,5 @@
+;
+
+crear un nuevo perfil 		(10)
+borrar un perfil 		(11)
+

@@ -1,0 +1,42 @@
+;
+meðaltími leiks:
+
+	frammi fyrir AI lvl 1 :	!
+	frammi fyrir AI lvl 2 :	!
+	frammi fyrir AI lvl 3 :	!
+	frammi fyrir AI lvl 4 :	!
+	frammi fyrir AI lvl 5 :	!
+
+meðalfjöldi heimsókna:
+
+	frammi fyrir AI lvl 1 :	!
+	frammi fyrir AI lvl 2 :	!
+	frammi fyrir AI lvl 3 :	!
+	frammi fyrir AI lvl 4 :	!
+	frammi fyrir AI lvl 5 :	!
+
+fjöldi vinninga:
+
+	frammi fyrir AI lvl 1: 	/
+	frammi fyrir AI lvl 2: 	/
+	frammi fyrir AI lvl 3: 	/
+	frammi fyrir AI lvl 4: 	/
+	frammi fyrir AI lvl 5: 	/
+
+fjöldi ósigra:
+
+	frammi fyrir AI lvl 1: 	/
+	frammi fyrir AI lvl 2: 	/
+	frammi fyrir AI lvl 3: 	/
+	frammi fyrir AI lvl 4: 	/
+	frammi fyrir AI lvl 5: 	/
+
+vinna-tap hlutfall:
+
+	frammi fyrir AI lvl 1 :	!
+	frammi fyrir AI lvl 2 :	!
+	frammi fyrir AI lvl 3 :	!
+	frammi fyrir AI lvl 4 :	!
+	frammi fyrir AI lvl 5 :	!
+
+heildar leiktími :	!

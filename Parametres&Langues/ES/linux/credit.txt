@@ -1,0 +1,32 @@
+130139139139162130160;
+			Créditos
+
+	PANTALLA  ......   Maxime CHARMOILLE
+	  	  ......   Loïs MAILLOT
+		  ......   Lucas SCHAPPLER
+
+	GESTION DE ....... Lucas SCHAPPLER
+	JUGADORES 
+
+	AI ...........     Maxime CHARMOILLE
+
+	SAFEGUARD ......   Loïs MAILLOT
+
+	REPETICION .....   Loïs MAILLOT
+
+	OPCIONES .......   Maxime CHARMOILLE
+		 .......   Lucas SCHAPPLER
+
+	TRADUCTORA .....   Maxime CHARMOILLE
+	   	   .....   Seccotine BUEE
+	   	   .....   Katia BRUNO
+
+
+======================= REMERCIEMENTS ===============================
+
+Seccotine BUEE para traducción al islandés y alemán
+Katia BRUNO por la traducción al italiano
+
+=====================================================================
+
+

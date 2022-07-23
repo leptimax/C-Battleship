@@ -1,0 +1,8 @@
+138;
+Pauze Menu :
+
+Ga verder met			(1)
+Instellingen			(2)
+Terug naar het hoofdmenu	(3)
+Verlaat				(4)
+

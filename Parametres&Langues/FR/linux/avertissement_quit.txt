@@ -1,0 +1,5 @@
+130;
+Toute progression non sauvegardé sera perdue, voulez-vous quitter ?
+
+Oui	(1)
+Non	(2)

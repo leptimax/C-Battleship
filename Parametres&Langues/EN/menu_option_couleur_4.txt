@@ -1,0 +1,7 @@
+;
+
+colorblind mode		(4)
+
+default colors		(5)
+
+return			(6)

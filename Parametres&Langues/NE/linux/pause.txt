@@ -1,0 +1,2 @@
+;
+		Pauze Menu	(P)                         Opslaan en stoppen met het spel    (Q)
