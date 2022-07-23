@@ -21,7 +21,7 @@ Infos_saveslot_sortie * get_info(Saveslots_Info * SSinfo, Saveslots_Info * SSinf
     if (savefile == NULL)
     {
         printf("Erreur, impossible de charger la partie.\n");
-        free(savefile);
+        //free(savefile);
         return NULL;
     }
     fseek(savefile, 0, SEEK_SET);
