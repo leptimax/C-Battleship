@@ -15,5 +15,5 @@ do
         fi
     fi
 done
-gcc -Wall $string -o Bataille_navale.exe
+gcc -Wall $string -o C-Battleship
 clear

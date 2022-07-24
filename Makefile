@@ -6,7 +6,7 @@ create:
 			
 
 launch:
-		./Bataille_navale.exe
+		./C-Battleship
 
 
 
