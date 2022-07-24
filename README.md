@@ -13,7 +13,7 @@ First of all, clone the project.
 
 Then to start the game for the first time, do a simple ```make``` and the game would be launch on your terminal
 
-If you have already create the .exe so you can launch the game with ```make``` or simply with ```./C-Battleship```
+If you have already create the executable file, you can launch the game with ```make``` or simply with ```./C-Battleship```
 
 ## Windows Install
 
@@ -23,7 +23,7 @@ Unlike linux, this project need any requirements to run with windows
 
 ### C-Battleship deposit
 
-All you have to do is to clone the project, run the C-Battleship.exe file and enjoy :)
+All you have to do is to clone the project, run the C-Battleship.exe file and enjoy :)cd 
 
 ## Licence
 
