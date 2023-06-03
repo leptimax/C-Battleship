@@ -1,5 +1,6 @@
 # C-Battleship
-My version of the battleship game coded in C language during my studies and available on linux and windows
+This is a battleship game coded in C language, available on Linux and Windows.
+It was developed by me and Lulios during our studies, we named our group project at the time "Dabbing Meerkats Studio".
 
 ## Linux Install
 
@@ -27,4 +28,4 @@ All you have to do is to clone the project, run the C-Battleship.exe file and en
 
 ## Licence
 
-This project is the intellectual property of leptimax and can be used ONLY for a non commercial usage without authorization.
+This project is the intellectual property of Dabbing Meerkats Studio and can be used ONLY for a non commercial usage without authorization.
